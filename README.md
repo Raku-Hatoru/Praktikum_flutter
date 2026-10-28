@@ -1,5 +1,6 @@
 # praktikum
-
+Nama    : MUhammad Sholahatul Haq
+NIM     : H1D024060
 A new Flutter project.
 
 ## Getting Started
