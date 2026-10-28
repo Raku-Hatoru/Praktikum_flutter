@@ -1,6 +1,8 @@
 # praktikum
+```text
 Nama    : MUhammad Sholahatul Haq.
 NIM     : H1D024060.
+```
 <img width="346" height="729" alt="image" src="https://github.com/user-attachments/assets/7b954ee3-098a-493e-993a-3b4dd4b6cbae" />
 
 
