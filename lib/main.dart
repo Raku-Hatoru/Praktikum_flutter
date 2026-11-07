@@ -1,5 +1,6 @@
 
 import 'package:flutter/material.dart';
+import 'package:praktikum/login_page.dart';
 import 'package:praktikum/row_widget.dart';
 import 'package:praktikum/ui/produk_detail.dart';
 import 'package:praktikum/ui/produk_page.dart';
@@ -16,8 +17,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Aplikasi Flutter Pertama",
-      home: ProdukPage(),
+      title: "Flutter Menu",
+      home: LoginPage(),
     );
   }
 }
